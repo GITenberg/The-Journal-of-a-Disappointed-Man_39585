@@ -1,0 +1,43 @@
+_repo: The-Journal-of-a-Disappointed-Man_39585
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Wells, H. G. (Herbert George)
+    alias: Wells, Herbert George
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '30'
+    url: http://www.gutenberg.org/2009/agents/30
+    wikipedia: http://en.wikipedia.org/wiki/H._G._Wells
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Barbellion, W. N. P.
+    aliases:
+    - Bruce Frederick Cummings
+    - Barbellion, Wilhelm Nero Pilate
+    birthdate: 1889
+    deathdate: 1919
+    gutenberg_agent_id: '40093'
+    url: http://www.gutenberg.org/2009/agents/40093
+    wikipedia: https://en.wikipedia.org/wiki/W._N._P._Barbellion
+description: ''
+gutenberg_issued: '2012-04-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39585'
+  lccn: '19011799'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Multiple sclerosis -- Patients -- Diaries'
+- !lcsh 'Authors, English -- 20th century -- Diaries'
+- !lcc 'PR'
+- !lcsh 'Naturalists -- Great Britain -- Diaries'
+- !lcsh 'Barbellion, W. N. P., 1889-1919 -- Diaries'
+title: The Journal of a Disappointed Man
+url: http://www.gutenberg.org/ebooks/39585
