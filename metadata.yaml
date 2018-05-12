@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40093
     wikipedia: https://en.wikipedia.org/wiki/W._N._P._Barbellion
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39585#The-Journal-of-a-Disappointed-Man
 gutenberg_issued: '2012-04-30'
 gutenberg_type: Text
 identifiers:
